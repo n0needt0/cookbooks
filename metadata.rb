@@ -1,4 +1,4 @@
-name             "developer_bootstrap"
+name             "devbox"
 maintainer       "Vyacheslav Voronenko"
 maintainer_email "git@voronenko.info"
 license          "MIT"
